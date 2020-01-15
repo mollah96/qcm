@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1579007265162_0" label="Java Main Sources" name="Java Main Sources">
+<item elementID="=qcm/src-gen" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=qcm/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=qcm.edit/src-gen" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=qcm.editor/src-gen" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=xtext.insa.qcm/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=xtext.insa.qcm/src-gen" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=xtext.insa.qcm/xtend-gen" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=xtext.insa.qcm.ide/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=xtext.insa.qcm.ide/src-gen" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=xtext.insa.qcm.ide/xtend-gen" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=xtext.insa.qcm.ui/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=xtext.insa.qcm.ui/src-gen" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=xtext.insa.qcm.ui/xtend-gen" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1579007265189_1" label="Java Test Sources" name="Java Test Sources">
+<item elementID="=xtext.insa.qcm.tests/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=xtext.insa.qcm.tests/src-gen" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=xtext.insa.qcm.tests/xtend-gen" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=xtext.insa.qcm.ui.tests/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=xtext.insa.qcm.ui.tests/src-gen" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=xtext.insa.qcm.ui.tests/xtend-gen" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1579007269638_2" label="Window Working Set" name="Aggregate for window 1579007269638"/>
+</workingSetManager>

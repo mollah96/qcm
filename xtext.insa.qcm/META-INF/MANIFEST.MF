@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: xtext.insa.qcm
+Bundle-ManifestVersion: 2
+Bundle-Name: xtext.insa.qcm
+Bundle-Vendor: My Company
+Bundle-Version: 1.0.0.qualifier
+Bundle-SymbolicName: xtext.insa.qcm; singleton:=true
+Bundle-ActivationPolicy: lazy
+Require-Bundle: qcm,
+ org.eclipse.xtext,
+ org.eclipse.xtext.xbase,
+ org.eclipse.equinox.common;bundle-version="3.5.0",
+ org.eclipse.xtext.xbase.lib;bundle-version="2.14.0",
+ org.eclipse.xtext.util,
+ org.eclipse.xtend.lib;bundle-version="2.14.0",
+ org.antlr.runtime;bundle-version="[3.2.0,3.2.1)"
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Export-Package: xtext.insa.parser.antlr,
+ xtext.insa,
+ xtext.insa.parser.antlr.internal,
+ xtext.insa.scoping,
+ xtext.insa.formatting2,
+ xtext.insa.services,
+ xtext.insa.generator,
+ xtext.insa.validation,
+ xtext.insa.serializer
+Import-Package: org.apache.log4j
